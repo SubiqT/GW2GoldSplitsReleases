@@ -11,7 +11,7 @@ This is an early alpha release, there will be bugs and stuff that doesn't work.
 Please report issues on the [nexus discord](https://discord.gg/raidcore) and include screenshots, recordings or logs where applicable.
 
 ## Known problems
-- It is currently unable to tell the difference between an event hiding or an event that is completed. Where possible the addon will try to correct itself if you wipe and retry a boss but be careful with stopping the timer after a wipe on the final boss because this may override your personal best. Fixing this requires checkpoints to be re-worked but requires further research.
+- GoldSplits is currently unable to tell the difference between an event hiding or an event that is completed. Where possible the addon will try to correct itself if you wipe and retry a boss but be careful with stopping the timer after a wipe on the final boss because this may override your personal best. Fixing this requires checkpoints to be re-worked but further research is needed first.
 - Checkpoints will not trigger if you game client language is not set to English. This will also be fixed by the checkpoint rework.
-- Only raids are supported at this time. Support for other types of instanced content will be added in future releases.
+- Only raids are supported at this time. Support for other types of instanced content will be added after the alpha.
 - The interface may not look correct if your imgui styles do not perfectly match my own. 
