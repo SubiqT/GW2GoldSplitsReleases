@@ -12,6 +12,7 @@ There is no configuration required to start a run, just indicate that you are re
 ## Known problems
 - Only raids are supported at this time. Support for other types of instanced content will be added after the alpha.
 - The interface may not look correct if your imgui styles do not perfectly match my own.
+- Crashes the game when open world events are re-scaled. Use the addon only in instanced content (specifically raids) for now.
 
 
 ## Disclaimer
